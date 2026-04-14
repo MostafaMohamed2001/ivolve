@@ -27,5 +27,5 @@ brew install maven
 
 # 📸 Build Result
 
-![Build Screenshot](./result-build.png)
+![Build Screenshot](result-build.png)
 ```
