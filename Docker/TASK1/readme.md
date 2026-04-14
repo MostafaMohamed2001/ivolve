@@ -27,5 +27,8 @@ brew install gradle
 
 ## 📸 Build Result
 
-![Build Screenshot](build-result.png)
+```
+
+```md
+![Build Screenshot](./build-result.png)
 ```
