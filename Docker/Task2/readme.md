@@ -29,6 +29,4 @@ brew install maven
 
 ```
 
-```md
 ![Build Screenshot](./result-build.png)
-```
