@@ -27,5 +27,5 @@ brew install gradle
 
 ## 📸 Build Result
 
-![Build Screenshot](/Docker/TASK1/build-result.png)
+![Build Screenshot](./build-result.png)
 ```

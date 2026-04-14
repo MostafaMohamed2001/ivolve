@@ -1,11 +1,13 @@
 # 🚀 Lab 2: Building and Packaging Java Applications with Maven
 
 ## 📌 Overview
+
 This lab demonstrates how to build, test, and run a Java application using **Maven**, and run it locally and using Docker with Java 17.
 
 ---
 
 ## 🧰 Tools Used
+
 - Java 17
 - Maven
 - Docker
@@ -17,6 +19,7 @@ This lab demonstrates how to build, test, and run a Java application using **Mav
 ## 📥 Setup
 
 ### Install Maven
+
 ```bash
 brew install maven
 
@@ -24,5 +27,5 @@ brew install maven
 
 # 📸 Build Result
 
-![Build Screenshot](/Docker/Task2/result-build.png)
+![Build Screenshot](./result-build.png)
 ```
